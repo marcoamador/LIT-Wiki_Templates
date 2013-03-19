@@ -1,0 +1,59 @@
+== Deliverables Acordados com o Cliente ==
+
+|| '''Identificador''' || '''Título''' || '''Descrição''' || '''Link''' || '''Principal Responsável''' || '''Data Acordada''' || '''Data Efectiva''' || '''Estado''' ||
+|| RIER || Relatório Inicial de Especificação de Requisitos || Documento com Especificação Inicial de Requisitos e Testes de Aceitação || - || Pedro Borges || '''15/03/2013''' || - || Em Progresso ||
+|| RFR-A || Relatório Final de Requisitos e Definição de Arquitectura ||  Documento com Especificação Final de Requisitos e Definição Inicial da Arquitectura do Projecto || - || Pedro Borges || '''29/03/2013''' || - || Por Iniciar ||
+
+== Deliverables no Âmbito da Unidade Curricular ==
+
+'''De 02/03/2013 a 22/03/2013'''
+
+|| '''Identificador''' || '''Título''' || '''Descrição''' || '''Link''' || '''Principal Responsável''' || '''Data Acordada''' || '''Data Efectiva''' || '''Estado''' ||
+|| PC || Plano de Conceção || Planeamento detalhado da fase de conceção do produto || [[PlanoConcecao| Plano de Conceção ]] || Pedro Borges || 8/03/2013 || 8/03/2013 || Terminado ||
+|| ER || Especificação de Requisitos || Relatório com a especificação de todos os requisitos, inerentes ao projeto || || || 22/03/2013 || || Iniciado ||
+|| TA || Testes de aceitação || || || || 22/03/2013 || || ||
+|| PNF || Protótipo Não Funcional || || || || 22/03/2013 || || ||
+|| DPA || Definição Preliminar de Arquitetura || || || || 22/03/2013 || || ||
+|| RIGP || Relatório Intermédio de Gestão do Projeto || || || || 22/03/2013 || || ||
+|| PD || Plano de Desenvolvimento || || || || 22/03/2013 || || ||
+|| WS || Website || || || || 22/03/2013 || || ||
+
+[[BR]]
+
+'''De 23/03/2013 a 05/04/2013'''
+
+|| '''Identificador''' || '''Título''' || '''Descrição''' || '''Link''' || '''Principal Responsável''' || '''Data Acordada''' || '''Data Efectiva''' || '''Estado''' ||
+|| AI || Apresentação Intermédia || || || || 5/04/2013 ||  || ||
+|| RAA || Resultados Auto-Avaliação || || || || 5/04/2013 || || ||
+|| RTS || Resultados Testes de Sobrevivência || || || || 5/04/2013 || || ||
+
+
+[[BR]]
+
+'''De 06/04/2013 a 31/05/2013'''
+
+|| '''Identificador''' || '''Título''' || '''Descrição''' || '''Link''' || '''Principal Responsável''' || '''Data Acordada''' || '''Data Efectiva''' || '''Estado''' ||
+|| PIM || Pacotes de Instalação e Manutenção || || || || 31/05/2013 ||  || ||
+|| MU || Manual do Utilizador || || || || 31/05/2013 || || ||
+|| VF || Versões Finais de Relatórios || || || || 31/05/2013 || || ||
+|| DT || Documentação de Testes || || || || 31/05/2013 || || ||
+
+
+[[BR]]
+
+'''De 01/06/2013 a 07/06/2013'''
+
+|| '''Identificador''' || '''Título''' || '''Descrição''' || '''Link''' || '''Principal Responsável''' || '''Data Acordada''' || '''Data Efectiva''' || '''Estado''' ||
+|| MP || Material Publicitário || || || || 7/06/2013 ||  || ||
+|| AF || Apresentação Final || || || || 7/06/2013 || || ||
+
+
+[[BR]]
+
+'''De 08/06/2013 a 14/06/2013'''
+
+|| '''Identificador''' || '''Título''' || '''Descrição''' || '''Link''' || '''Principal Responsável''' || '''Data Acordada''' || '''Data Efectiva''' || '''Estado''' ||
+|| NR || Novas Realeases || || || || 14/06/2013 ||  || ||
+|| RFGP || Relatório Final de Gestão de Projecto || || || || 14/06/2013 || || ||
+|| RA || Resultados da Auto-Avaliação || || || || 14/06/2013 || || ||
+|| CD || CD com todos os artefactos produzidos || || || || 14/06/2013 || || ||

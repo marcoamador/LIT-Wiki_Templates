@@ -1,0 +1,59 @@
+== '''Gestor de Projeto''' ==
+
+'''[[http://lgp.fe.up.pt/2013/healthcareinterop/wiki/pag_pedro | Pedro Borges]]'''[[BR]]
+
+'''Iniciais:''' PB[[BR]]
+'''Telefone:''' 919186393[[BR]]
+'''E-mail:''' highvolt16@gmail.com[[BR]]
+'''Papéis adicionais Atribuídos:''' CTO [[BR]]
+[[BR]]
+
+
+== '''Restantes Colaboradores''' ==
+
+'''[[http://lgp.fe.up.pt/2013/healthcareinterop/wiki/pag_analuisa | Ana Luísa Marques]]'''[[BR]]
+
+'''Iniciais:''' ALM[[BR]]
+'''Telefone:''' 925805525[[BR]]
+'''E-mail:''' ana.luisa.pires.marques@gmail.com[[BR]]
+'''Papéis Atribuídos:''' Analista[[BR]]
+[[BR]]
+
+'''[[http://lgp.fe.up.pt/2013/healthcareinterop/wiki/pag_daniel | Daniel Freitas]]'''[[BR]]
+
+'''Iniciais:''' DF[[BR]]
+'''Telefone:''' 917683040[[BR]]
+'''E-mail:''' danielfreitas9@gmail.com[[BR]]
+'''Papéis Atribuídos:''' CEO/ Teste e Qualidade do Projeto (Responsável Primário)[[BR]]
+[[BR]]
+
+'''[[http://lgp.fe.up.pt/2013/healthcareinterop/wiki/pag_jorge | Jorge Silva]]'''[[BR]]
+
+'''Iniciais:''' JS[[BR]]
+'''Telefone:''' 919493311[[BR]]
+'''E-mail:''' jorgesilva.me@gmail.com[[BR]]
+'''Papéis Atribuídos:''' Arquiteto[[BR]]
+[[BR]]
+
+'''[[http://lgp.fe.up.pt/2013/healthcareinterop/wiki/pag_mjb | Maria João Barreira]]'''[[BR]]
+
+'''Iniciais:''' MJB[[BR]]
+'''Telefone:''' 913095645[[BR]]
+'''E-mail:''' mjoao.b3@gmail.com[[BR]]
+'''Papéis Atribuídos:''' CLO/ Comunicação e Imagem[[BR]]
+[[BR]]
+
+'''[[http://lgp.fe.up.pt/2013/healthcareinterop/wiki/pag_marco | Marco Amador]]'''[[BR]]
+
+'''Iniciais:''' MA[[BR]]
+'''Telefone:'''917707315[[BR]]
+'''E-mail:''' marco.amador91@gmail.com[[BR]]
+'''Papéis Atribuídos:''' QAO/ Programador[[BR]]
+[[BR]]
+
+'''[[http://lgp.fe.up.pt/2013/healthcareinterop/wiki/pag_rui | Rui Carvalho]]'''[[BR]]
+
+'''Iniciais:''' RC[[BR]]
+'''Telefone:''' 914400420[[BR]]
+'''E-mail:''' ruievcarvalho@gmail.com[[BR]]
+'''Papéis Atribuídos:''' Teste e Qualidade do Projeto (Responsável Secundário)[[BR]]

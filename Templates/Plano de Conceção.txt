@@ -1,0 +1,28 @@
+== Plano de Conceção ==
+
+'''Semana 1 - 2 de março a 8 de março'''
+[[BR]]
+
+|| '''Tarefa a Realizar''' || '''Estimação em Pontos''' || '''Prioridade''' ||
+|| Analise da especificação/''standard'' FHIR - http://www.hl7.org/implement/standards/fhir/ || 5 || Alta ||
+
+[[BR]]
+'''Semana 2 - 9 de março a 15 de março'''
+[[BR]]
+
+|| '''Tarefa a Realizar''' || '''Estimação em Pontos''' || '''Prioridade''' ||
+|| Elaboração de User Stories || 5 || Muito Alta ||
+|| Criação de diagramas UML || 5 || Alta ||
+|| Elaboração de testes de aceitação para cada User Story || 8 || Muito Alta ||
+|| Desenvolvimento de mockups || 5 || Média ||
+|| Elaboração de uma versão provisoria do relatório de requisitos para mostrar ao cliente || 5 || Muito Alta ||
+|| Revisão do relatório de requisitos || 3 || Alta ||
+
+[[BR]]
+'''Semana 3 - 16 de março a 22 de março'''
+[[BR]]
+
+|| '''Tarefa a Realizar''' || '''Estimação em Pontos''' || '''Prioridade''' ||
+|| Elaboração de uma versão final do relatório de requisitos e do relatório de Arquitectura || 8 || Muito Alta ||
+
+[[BR]]

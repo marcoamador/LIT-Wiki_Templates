@@ -1,0 +1,44 @@
+== Papéis Transversais à Empresa ==
+
+'''Chief Executive Officer (CEO)''' - Daniel Freitas[[BR]]
+'''Chief Technical Officer (CTO)''' - Pedro Borges[[BR]]
+'''Chief Logistics Officer (CLO)''' - Maria João Barreira[[BR]]
+'''Quality Assurance Officer''' - Marco Amador[[BR]]
+[[BR]]
+
+
+== Papéis Atribuídos no âmbito do Projeto ==
+
+'''Team Leader / Gestor de Projeto''' - Pedro Borges[[BR]]
+'''Comunicação e Imagem''' - Maria João Barreira[[BR]]
+'''Arquiteto''' - Jorge Silva[[BR]]
+'''Analista''' - Ana Luísa Marques[[BR]]
+'''Teste e Qualidade''' - Daniel Freitas[[BR]]
+'''Programador''' - Marco Amador
+
+
+== Responsabilidades de cada Papel ==
+
+'''Team Leader / Gestor de Projeto:''' Responsável por guiar o grupo, fornecer as instruções necessárias e definir responsabilidades.[[BR]][[BR]]
+'''Responsável Primário:'''[[BR]]
+'''Responsável Secundário:'''[[BR]][[BR]]
+
+'''Comunicação e Imagem:''' Responsável pela comunicação com o cliente e com os designers. Responsável pela imagem do produto.[[BR]][[BR]]
+'''Responsável Primário:'''[[BR]]
+'''Responsável Secundário:'''[[BR]][[BR]]
+
+'''Arquiteto:''' Responsável pela especificação da arquitetura da aplicação.[[BR]][[BR]]
+'''Responsável Primário:'''[[BR]]
+'''Responsável Secundário:'''[[BR]][[BR]]
+
+'''Analista:''' Responsável pelo estudo de processos que possam conduzir à melhor solução possivel.[[BR]][[BR]]
+'''Responsável Primário:'''[[BR]]
+'''Responsável Secundário:'''[[BR]][[BR]]
+
+'''Teste e Qualidade:''' Responsável pelos testes a que a aplicação final deverá ser submetida. Responsável também por assegurar uma aplicação final de qualidade.[[BR]][[BR]]
+'''Responsável Primário:'''[[BR]]
+'''Responsável Secundário:'''[[BR]][[BR]]
+
+'''Programador:''' Responsável pela concepção da aplicação.[[BR]][[BR]]
+'''Responsável Primário:'''[[BR]]
+'''Responsável Secundário:'''[[BR]]

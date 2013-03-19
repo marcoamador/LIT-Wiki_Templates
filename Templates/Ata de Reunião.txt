@@ -1,0 +1,20 @@
+== Reunião de Equipa / com o Cliente ==
+
+'''Ata Número X'''
+
+Exemplo de texto: 
+
+Aos vinte e dois dias do mês de Fevereiro do ano de dois mil e treze, pelas dezoito horas, realizou-se na sala B216 da Faculdade de Engenharia da Universidade do Porto, a primeira reunião com o nosso cliente, representado pelo Engenheiro Pedro Rocha, presidida pelo líder de equipa Pedro Borges, com a seguinte ordem de trabalhos:
+
+1) Apresentação dos colaboradores no projecto;
+
+2) Conhecimento do projeto;
+
+3) Definição da data da próxima reunião.
+
+Após os membros da equipa se terem apresentado, o cliente fez uma breve apresentação do projeto a desenvolver informando-nos da norma (FHIR) que devemos seguir para o desenvolvimento do mesmo.
+
+Por fim definiu-se como data da próxima reunião o dia um de março de dois mil e treze, para levantamento de requisitos.
+
+Estiveram presentes todos os membros da equipa, Ana Luísa Marques, Daniel Freitas, Jorge Silva,  Marco Amador,  Maria João Barreira, Pedro Borges e Rui Carvalho.
+Nada mais havendo a tratar a reunião foi terminada pelas dezoito horas e vinte minutos. Eu, Maria João Barreira, lavrei a seguinte ata, que será lida  por todos os presentes.

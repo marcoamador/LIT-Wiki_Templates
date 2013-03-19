@@ -1,0 +1,29 @@
+== Progresso Semanal ==
+     
+'''Semana 1 - De 22/02/13 a 01/03/13'''
+     
+||= Tarefa realizada =||= Quem realizou? =||= Esforço dispendido p/ pessoa (em horas) =||
+|| Breve Descrição || Nome dos elementos da Equipa || Auto-Explicável ||
+     
+'''Semana 2 - De 01/03/13 a 08/03/13'''
+     
+||= Tarefa realizada =||= Quem realizou? =||= Esforço dispendido p/ pessoa (em horas) =||
+|| Breve Descrição || Nome dos elementos da Equipa || Auto-Explicável ||
+
+
+'''Semana 3 - De 08/03/13 a 15/03/13'''
+     
+||= Tarefa realizada =||= Quem realizou? =||= Esforço dispendido p/ pessoa (em horas) =||
+|| Breve Descrição || Nome dos elementos da Equipa || Auto-Explicável ||
+
+
+'''Semana 4 - De 15/03/13 a 22/03/13'''
+     
+||= Tarefa realizada =||= Quem realizou? =||= Esforço dispendido p/ pessoa (em horas) =||
+|| Breve Descrição || Nome dos elementos da Equipa || Auto-Explicável ||
+
+
+'''Semana 5 - De 22/03/13 a 29/03/13'''
+     
+||= Tarefa realizada =||= Quem realizou? =||= Esforço dispendido p/ pessoa (em horas) =||
+|| Breve Descrição || Nome dos elementos da Equipa || Auto-Explicável ||

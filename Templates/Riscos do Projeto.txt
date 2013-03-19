@@ -1,0 +1,26 @@
+== Riscos do Projeto ==
+
+{{{#!comment
+Inserir série de tabelas, uma para cada risco.
+}}}
+
+||=Identificação (nº) =||||  ||
+||=Data de Criação =|||| - ||
+||=Descrição =|||| - ||
+||=Probabilidade de Ocorrência =|||| Alta/Média/Baixa ||
+||=Impacto =|||| Alto/Médio/Baixo ||
+||=Responsável =|||| - ||
+||=Estado =|||| Identificado/Ocorrido/Mitigado/Ultrapassado ||
+||=Comentários / Medidas de Mitigação =|||| - ||
+[[BR]]
+
+Exemplo:
+||=Identificação (nº) =|||| 1 ||
+||=Data de Criação =|||| 08-03-2013 ||
+||=Descrição =|||| Problemas originados durante a  criação do webservice usando Rails. ||
+||=Probabilidade =|||| Média ||
+||=Impacto =|||| Alto ||
+||=Responsável =|||| João Anes ||
+||=Estado =|||| Identificado ||
+||=Comentários / Medidas de Mitigação =|||| - ||
+[[BR]]

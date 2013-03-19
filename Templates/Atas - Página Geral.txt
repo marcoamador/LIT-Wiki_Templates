@@ -1,0 +1,9 @@
+== Reuniões com o Cliente ==
+
+||= Identificador =||= Breve Descrição =||= Data =||
+|| [[ ReuniaoCliente1 | Reunião nº 1]] || Arranque dos Projetos || 22/02/2013 ||
+|| [[ ReuniaoCliente2 | Reunião nº 2]] || Deslocação à GlinttHS - Levantamento de Requisitos || 01/03/2013 ||
+
+== Reuniões de Equipa ==
+
+||= Identificador =||= Breve Descrição =||= Data =||
